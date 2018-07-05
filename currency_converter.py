@@ -4,10 +4,36 @@ SUPPORTED_CURRENCIES = {
     "USD": "US dollar",
     "GBP": "Pound sterling",
     "BRL": "Brazilian real",
+#etc meaning of the specific country code..
 
 }
 INITAL_CODES = {
-	1: "EUR"		
+	1: "EUR",
+    2: "USD",
+    3: "GBP",
+    4: "BRL",
+    5: "PLN",
+    6: "MXN",
+    7: "INR",
+    8: "AUD",
+    9: "CAD",
+    10: "BDT",
+    11: "ZMW",
+    12: "IDR",
+    13: "EGP",
+    14: "GEL",
+    15: "TOP",
+    16: "KYD",
+    17: "CAD",
+    18: "CLF",
+    19: "ZWL",
+    20: "YER",
+    21: "KES",
+    22: "MYR",
+    23: "MNT",
+    24: "NZD",
+    25: "ZAR",
+    26: "ZWL"		
 	}
 CURRENCY_CODES = {
     1: "EUR",
